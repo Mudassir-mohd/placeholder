@@ -1,0 +1,61 @@
+nav{
+    position:relative;
+    top: -80px;
+}
+#img1{
+    position: relative;
+    top: -100;
+    left: -100;
+}
+#para1{
+    position: relative;
+    top: -370;
+}
+#para2{
+    position: relative;
+    top: -350;
+}
+#para3{
+    position: relative;
+    top: -350;
+}
+#para4{
+    position: relative;
+    top: -330;
+}
+.img{
+    background-color: beige;
+}
+#img6{
+    position: relative;
+    right: -800;
+    top: -300;
+}
+#para8{
+    position: relative;
+    top: -300;
+}
+#lines{
+    position: relative;
+    top: -125;
+    font-size: ;
+}
+#lines1{
+    position: relative;
+    top: -450;
+    right: -400;
+}
+#facebook{
+    position: relative;
+    top: -800;
+    right: 200;
+}
+#instagram{
+    position: relative;
+    top: -800;
+    right: 100;
+}
+#foot{
+    position: relative;
+    top: -700;
+}
