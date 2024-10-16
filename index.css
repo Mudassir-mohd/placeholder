@@ -1,61 +1,169 @@
-nav{
-    position:relative;
-    top: -80px;
+.con1{
+    /* background-color: black; */
+    display: flex;
+    /* justify-content: center; */
+
 }
-#img1{
+.img1{
+    margin-top: 1%;
+    margin-left: 20%;
+    height: 5%;
+}
+.bt1{
+    height: 2vw;
+    width: 4vw;
+    margin-top: 2%;
+    /* display: in; */
+    /* justify-content: space-a; */
+    margin-left: 50%;
+    
+}
+.bt2{
+    height: 2vw;
+    width: 4vw;
+    margin-top: 2%;
+    background-color: black;
+    color: white;
+}
+.p1{
+    margin-left: 21%;
+    margin-top: 4%;
+    /* padding-top: 2%; */
+    width: 20%;
+    /* background-color: black; */
+}
+.img2{
+    margin-left: 55%;
+   position: relative;
+   top: -6.5vw;
+   /* height: 300px; */
+}
+.p2{
+    /* background-color: black; */
+    width: 25%;
+    margin-left: 21%;
     position: relative;
-    top: -100;
-    left: -100;
+    top: -23vw;
 }
-#para1{
+.p3{
+    width: 15%;
+    margin-left: 21%;
     position: relative;
-    top: -370;
+    top: -23vw;
+    /* background-color: coral;color: white; */
 }
-#para2{
+.p4{
+    /* background-color: black; */
+    width: 5%;
+    margin-left: 0.3%;
     position: relative;
-    top: -350;
+    top: -23vw;
+    background-color: coral;color: white;
 }
-#para3{
+.p5{
+    /* background-color: black; */
+    width: 25%;
+    margin-left: 21%;
     position: relative;
-    top: -350;
+    top: -23vw;
+    /* background-color: coral;color: white; */
 }
-#para4{
+.con2{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    /* background-color: grey; */
+   margin-top: -5%;
+}
+.p6{
+    margin-left: 20%;
+    font-size: x-large;
+    font-weight: 800;
+    width: 20%;
+    /* background-color: aqua; */
+}
+.p7{
+    margin-left: 20%;
+    font-size:large;
+    font-weight: 400;
+    width: 35%;
+    /* background-color: aqua; */
+}
+.p8{
+    margin-left: 20%;
+    font-size: x-large;
+    font-weight: 550;
+    width: 25%;
+    /* background-color: aqua; */
+}.p9{
+    margin-left: 20%;
+    font-size: large;
+    font-weight: 50;
+    width: 35%;
+    /* background-color: aqua; */
+}
+.img3{
+    margin-left: 59%;
     position: relative;
-    top: -330;
+    top: -20vw;
+    background-color: aqua;
 }
-.img{
-    background-color: beige;
+.p10{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    /* background-color: aqua; */
+    margin-top: -200px;
+    /* margin-left: 21%; */
+    /* width: 25%; */
 }
-#img6{
+.p11{
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.con3{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    gap: 25%;
+    margin-top: 4%;
+}
+.con3 img{
+    height: 5%;
+    padding-top: 0.5%;
+}
+.p12{
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.con4{
+    height: 10px;
+    /* background-color: black; */
+    /* display: grid; */
+    /* justify-content: center; */
+    /* list-style: none; */
+    /* margin-left: 50%; */
+}
+.li1{
+    list-style: none;
+    display: grid;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 35%;
     position: relative;
-    right: -800;
-    top: -300;
-}
-#para8{
+    top: -60px;
+}.li2{
+    list-style: none;
+    display: grid;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 60%;
     position: relative;
-    top: -300;
+    top: -220px;
 }
-#lines{
+.foot{
+    /* background-color: black; */
     position: relative;
-    top: -125;
-    font-size: ;
-}
-#lines1{
-    position: relative;
-    top: -450;
-    right: -400;
-}
-#facebook{
-    position: relative;
-    top: -800;
-    right: 200;
-}
-#instagram{
-    position: relative;
-    top: -800;
-    right: 100;
-}
-#foot{
-    position: relative;
-    top: -700;
+    top: -5px;
+    margin-left: 20%;
 }
